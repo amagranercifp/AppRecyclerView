@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AppRecyclerView</string>
+    <string name="add_fab_button">Añadir Nuevo Elemento</string>
+
+    <string-array name="codigosHex_array">
+        <item>#2196f3</item>
+        <item>#9c27b0</item>
+        <item>#1b5e20</item>
+        <item>#ff5722</item>
+        <item>#f44336</item>
+        <item>#3f51b5</item>
+        <item>#673ab7</item>
+        <item>#689f38</item>
+        <item>#009688</item>
+    </string-array>
+
+    <string-array name="nombres_array">
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Red</item>
+        <item>Indigo</item>
+        <item>Deep_purple</item>
+        <item>Light_green</item>
+        <item>Teal</item>
+    </string-array>
+
+</resources>
